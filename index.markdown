@@ -1055,7 +1055,7 @@ things like:
 dxw will always pay expenses which are:
 
 * **Necessary**: We only expense things we need in order to be able to complete
-  our worktec
+  our workte
 * **Proportionate**: The total expense should be proportionate to the work at
   hand. In general, we try to avoid spending lots of money. For example, unless
   you have a good reason, don't get a cab to a meeting when you could get a
