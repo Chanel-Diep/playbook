@@ -3,13 +3,13 @@ title: Contributing to the Playbook
 ---
 The Playbook is public and anyone, inside or outside of dxw, can suggest changes to it. This means you!
 
-We use GitHub to manage the contents of the Playbook. The contents are kept in a central storage location called a repository.
+We use GitHub to manage the contents of the Playbook. The contents are kept in a main storage location called a repository.
 
 All changes to the Playbook are managed using 'pull requests'. This is a technical term for requesting a specific change is made to a repository. It allows everyone to see exactly what changes are being proposed, and for discussion and changes to be made before it is 'merged' into the Playbook, and those changes to be recorded for the future.
 
 If you know how to create a pull request, then all you need to know is that this repository is available at <https://github.com/dxw/playbook>
 
-If you're not sure how to create a pull request, then don't worry, here is a guide on how to create one via our content management system, Netlify CMS.
+If you're not sure how to create a pull request, then don't worry, here is a guide on how to create one through Netlify CMS, the content management system the Play.
 
 ## What you will need
 
