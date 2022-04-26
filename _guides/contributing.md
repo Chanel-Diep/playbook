@@ -9,7 +9,7 @@ All changes to the Playbook are managed using 'pull requests'. This is a technic
 
 If you know how to create a pull request, then all you need to know is that this repository is available at <https://github.com/dxw/playbook>
 
-If you're not sure how to create a pull request, then don't worry, here is a guide on how to create one through Netlify CMS, the content management system the Play.
+If you're not sure how to create a pull request, then don't worry, here is a guide on how to create one through Netlify CMS (the content management system we use).
 
 ## What you will need
 
