@@ -30,7 +30,9 @@ You will need a GitHub account. If you don't already have one, you'll need to [s
 7. Click 'Save' at the top of the page
 8. Click 'Status: Draft' and choose 'In review'
 
-Your suggested changes will not be live yet. Your suggestions should be available to view on the [GitHub Pull Requests page](https://github.com/dxw/playbook/pulls). After a few minutes, you should be able to view a preview of the Playbook with your changes by clicking on the URL next to '😎 Browse the preview'
+Your suggested changes will be shared with the team at dxw to be reviewed. 
+
+You can view all your existing and past suggestions on the [GitHub Pull Requests page](https://github.com/dxw/playbook/pulls). After a few minutes, you should be able to view a preview of the Playbook with your changes by clicking on the URL next to '😎 Browse the preview'
 
 ## Reviewing changes
 
